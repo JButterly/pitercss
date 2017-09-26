@@ -124,3 +124,7 @@ section.examples {
 .flex-block-2 {
     width: 20%;
 }
+
+.profit-text-uppercase {
+    text-transform: uppercase;
+}
